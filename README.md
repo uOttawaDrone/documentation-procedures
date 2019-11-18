@@ -31,7 +31,7 @@ Here's where all our projects will be listed!
 
 ### uoDrone Fall 2019 Project
 
-* [Project Link](https://github.com/orgs/uOttawaDrone/projects/)
+* [Project Link](https://github.com/orgs/uOttawaDrone/projects/1)
 * [Git Repo](https://github.com/uOttawaDrone/drone-fall-2019)
 * [Documentation area](https://github.com/uOttawaDrone/drone-fall-2019/tree/master/docs)
 
