@@ -15,11 +15,18 @@ Use the format: _build_log_YYMMDD.md_
 ### Template
 
 > Replace things with % around them!
+> Remove any comments that are in brackets.
 
 ```
     # Build Log - %DATE YYYY/MM/DD%
     
     **Group Members:** %Your Name1%, %Your Name2%, %Your Name3%
+    
+    ## Design (Only applies to labs which use a member design or look at a study)
+    
+    * %Name of Design% by %name of creator%
+    * %Intended Result (Less drag, less weight, cable management etc.)%
+    * [Report](%URL TO REPORT (UPLOAD YOUR REPORTS TO GIT AND THEN LINK THEM)% "%Some title%")
     
     ## Observations
     
@@ -32,6 +39,20 @@ Use the format: _build_log_YYMMDD.md_
     * %Bullet Point 1%
       * %Bullet Point 1A%
     * %Bullet Point 2%
+    
+    ## Tests Ran
+    
+    *%Name of Test%
+     * %Detail 1%
+     * %Detail 2%
+    
+    ## Discussion 
+    
+    * %Was the design succesfull?%
+      * %Bullet Point 1%
+      * %Bullet Point 2%
+    * %Other Take away from design%
+      * %Bullet Point 1%
     
     ## Next Steps
     
